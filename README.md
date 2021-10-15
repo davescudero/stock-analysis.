@@ -270,5 +270,5 @@ End Sub
 ##### I think one of the main pros of refactoring a code is that it gets more organized, easier to debugg and it gets faster, so it have less chance to fail.
 ##### One of the cons is that not all the time the programmer has the time to factor codes, but i still thimk its a great practice.
 ### **Advantages and Disadvantages of the Original and Refactored VBA Script**
-##### The time!, the time is the most visible chang, it took less than a second to run.
+##### The time!, the time is the most visible change, it took less than a second to run.
 
